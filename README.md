@@ -9,7 +9,7 @@
 
 ## About me
 
-Hi, I'm Faith. I identify as the New Engineer in Town. 
+Hi 👋, I'm Faith. I identify as the New Engineer in Town🤗 . 
 
 <!--
 **EngineerFM/EngineerFM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
